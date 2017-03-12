@@ -4,4 +4,7 @@
 patch:
   style/horizontal: true
   #style/font_face: 幼圆
-  style/font_point: 19   
+  style/font_point: 19
+
+  app_options/org.gnu.Emacs:
+    ascii_mode: true
